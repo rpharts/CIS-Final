@@ -96,3 +96,17 @@ label {
   padding-bottom: 10px;
 }
 
+#body {
+  margin: 0px;
+}
+
+#p2 {
+  max-width: 500px;
+}
+
+#player-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  max-width: 1000px;
+}
