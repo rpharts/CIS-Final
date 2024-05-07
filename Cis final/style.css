@@ -1,0 +1,98 @@
+.topnav {
+  background-color: #020214;
+  overflow: hidden;
+  font-weight: bold;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #b56629;
+  color: black;
+}
+
+#header {
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px;
+  font-weight: bold;
+}
+
+form {
+  background-color: rgb(188, 194, 197);
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  display: inline-block;
+  padding: 10px;
+
+}
+
+fieldset {
+  border: none;
+}
+
+label {
+  display: inline-block;
+  float: left;
+  clear: left;
+  width: 90px;
+  margin: 5px;
+  text-align: left;
+}
+
+#Rome {
+  text-align: center;
+  background-color: rgb(188, 194, 197);
+  padding: 5px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+#Caleb {
+  text-align: center;
+  background-color: rgb(188, 194, 197);
+  padding: 5px;
+  padding-right: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+#Kiran {
+  text-align: center;
+  background-color: rgb(188, 194, 197);
+  padding: 5px;
+  padding-right: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+#Tory {
+  text-align: center;
+  background-color: rgb(188, 194, 197);
+  padding: 5px;
+  padding-right: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
